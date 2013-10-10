@@ -3,6 +3,8 @@
 *.bexch
 *.o
 *.cgpr
+*.exe
+*.*~
 /build
 /tests
 /build_logs
